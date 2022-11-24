@@ -2,7 +2,7 @@
 
 # define three sets
 E = {1, 2, 4, 6, 11};
-N = {2, 2, 3, 4, 5};
+N = {2, 2, 3, 4, 6};
 
 # set union
 print("Union of E and N is",E | N)
