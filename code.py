@@ -1,7 +1,7 @@
 # Program to perform different set operations like in mathematics
 
 # define three sets
-E = {1, 2, 4, 6, 9};
+E = {1, 2, 4, 6, 10};
 N = {2, 2, 3, 4, 5};
 
 # set union
